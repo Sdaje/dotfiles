@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sylvain.dajeans@gmail.com
+	name = sylvain Dajeans
